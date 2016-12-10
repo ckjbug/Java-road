@@ -1,5 +1,5 @@
-备忘录模块（Swing+JDBC实现）1
-1.1 绘制艺术字
+//备忘录模块（Swing+JDBC实现）1
+//1.1 绘制艺术字
 public void paint（Graphics g）{
 super.paitn(g);//调用父类的构造方法
 Graphics2D g2 = (Graphics2D) g;//获取Graphics2D对象
